@@ -38,6 +38,12 @@ CORE IMAGE · VAST WHITESPACE · WARM–COOL JUMPS · NAIVE HAND · VISUAL METAP
 
 Keep one core image and only the relations that matter. Near-white space carries air, distance, and emotion while opaque pigment, paused marks, and small colour shifts turn the source into a quiet but vivid visual memory.
 
+## Original prompt · Five languages
+
+[Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remains the sole runtime aesthetic authority. The other four files are faithful reading translations for international readers and sharing; they never rewrite the image-generation prompt.
+
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 056 right for you?
 
@@ -65,11 +71,11 @@ lock identity and key posture → identify the core image or metaphor → remove
 - Cream yellow, apricot, peach, coral, and old rose meet sky blue, mint, and grey-green with relaxed warm–cool tension and occasional local colour shifts.
 - The subject may sit off-centre, suspended, low, or partially cropped; text enters the space as part of the painting rather than as mechanical poster information.
 
-Aesthetic constraints and rejection rules live only in the [original source brief](references/056-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-056-prompt.en.md)
+Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-056-prompt.en.md)
 
 ## The original brief is authoritative
 
-`references/056-source.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
+`references/original-prompt/zh-CN.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
 
 Mode and size completely replace the legacy 3:4 top-bottom delivery container without rewriting the transformation aesthetic. Each asset sends GPT Image 2 one selected mode's final contract instead of asking it to interpret four alternatives inside a generic template.
 
@@ -209,7 +215,7 @@ $xxd-panel-056
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-Full specifications: [Skill workflow](SKILL.md) · [source archive](references/056-source.md) · [English runtime adapter](references/xxd-panel-056-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-056-prompt.zh-CN.md)
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-056-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-056-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
