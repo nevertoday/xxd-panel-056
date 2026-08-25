@@ -4,7 +4,7 @@
 
 # 🦁 XXD Panel 056
 
-### Hold a singular emotion inside a visual memory with handmade pauses
+### Keep one core image, then repaint it with vast whitespace, paused marks, and warm–cool colour shifts
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
@@ -14,14 +14,7 @@
 
 </div>
 
-CORE IMAGE · VAST WHITESPACE · WARM–COOL JUMPS · NAIVE HAND · VISUAL METAPHOR
-
-Keep one core image and only the relations that matter. Near-white space carries air, distance, and emotion while opaque pigment, paused marks, and small colour shifts turn the source into a quiet but vivid visual memory.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091730850723586307) · 24 August 2026<br>
-> GPT2 × warm colour × artist palette × aesthetic prompt × VOL.056
 
 <table>
   <tr>
@@ -34,16 +27,23 @@ Keep one core image and only the relations that matter. Near-white space carries
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091730850723586307) · 24 August 2026<br>
+> GPT2 × warm colour × artist palette × aesthetic prompt × VOL.056
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091730850723586307">View the original post and full prompt →</a></p>
 
 These samples demonstrate 056's aesthetic result only. Their subjects, composition, palette, copy, and earlier canvas ratio never become references or defaults for a new task.
+
+CORE IMAGE · VAST WHITESPACE · WARM–COOL JUMPS · NAIVE HAND · VISUAL METAPHOR
+
+Keep one core image and only the relations that matter. Near-white space carries air, distance, and emotion while opaque pigment, paused marks, and small colour shifts turn the source into a quiet but vivid visual memory.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 056 right for you?
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you will get** | Hold a singular emotion inside a visual memory with handmade pauses |
+| **What you will get** | Keep one core image, then repaint it with vast whitespace, paused marks, and warm–cool colour shifts |
 | **Recognizable signature** | CORE IMAGE · VAST WHITESPACE · WARM–COOL JUMPS · NAIVE HAND · VISUAL METAPHOR |
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
