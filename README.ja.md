@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 核心イメージ · 巨大な余白 · 暖冷の跳色 · 稚拙な手描き · 視覚的比喩
 
 写真から核心イメージと必要最小限の関係だけを残します。白に近い広大な余白が空気、距離、感情を担い、不透明な絵具、止まる筆触、局所的な色ずれが静かで鮮やかな視覚記憶を作ります。
@@ -234,7 +236,7 @@ Knowledge Planet と会員プロンプトライブラリは一つの年会です
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>記憶は六つのアイコンではなく、強弱のある収集です。</strong></div>
+<div align="center"><strong>筆触を少し止め、色を少しずらし、感情を残す。</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Knowledge Planet と会員プロンプトライブラリは一つの年会です
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

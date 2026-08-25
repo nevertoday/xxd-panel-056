@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 核心意象 · 巨大留白 · 暖冷跳色 · 稚拙手绘 · 视觉隐喻
 
 从照片里只留下一个核心意象与极少叙事关系，让接近白色的巨大留白承载空气、距离和情绪；不透明颜料、停顿笔触与局部错色把它变成安静却鲜活的视觉记忆。
@@ -234,7 +236,7 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>记忆不是六个图标，而是一段有主次的收藏。</strong></div>
+<div align="center"><strong>让笔触停一下，让颜色偏一点，让情绪留下来。</strong></div>
 
 ---
 
@@ -250,5 +252,4 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 <td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png" alt="XXD Alipay reward" width="180"></a><br><strong>Alipay</strong></td>
 </tr></table>
 
-</div>
 </div>

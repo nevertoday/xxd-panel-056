@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 صورة جوهرية · فراغ واسع · قفزات دافئة وباردة · يد فطرية · استعارة بصرية
 
 يحتفظ بصورة جوهرية واحدة وبأقل العلاقات اللازمة. يحمل الفراغ القريب من الأبيض الهواء والمسافة والعاطفة، بينما تحول الصبغة المعتمة واللمسات المتوقفة والانزياحات اللونية الصغيرة المصدر إلى ذاكرة بصرية هادئة وحية.
@@ -234,7 +236,7 @@ Knowledge Planet ومكتبة توجيهات الأعضاء عضوية سنوي�
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center" dir="rtl"><strong>الذاكرة ليست ست أيقونات، بل مجموعة ذات تراتبية.</strong></div>
+<div align="center" dir="rtl"><strong>دع اللمسة تتوقف قليلاً، واللون ينزاح قليلاً، والشعور يبقى.</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Knowledge Planet ومكتبة توجيهات الأعضاء عضوية سنوي�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

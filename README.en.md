@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 CORE IMAGE · VAST WHITESPACE · WARM–COOL JUMPS · NAIVE HAND · VISUAL METAPHOR
 
 Keep one core image and only the relations that matter. Near-white space carries air, distance, and emotion while opaque pigment, paused marks, and small colour shifts turn the source into a quiet but vivid visual memory.
@@ -234,7 +236,7 @@ One annual payment opens both Knowledge Planet and the member prompt library. Jo
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>A memory is not six icons; it is a collection with hierarchy.</strong></div>
+<div align="center"><strong>Let the mark pause, let the colour shift, and let the feeling remain.</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Chinese-language support may use Xiaoxiaodong's own WeChat or Alipay reward code
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

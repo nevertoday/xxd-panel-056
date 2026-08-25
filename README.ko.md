@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 핵심 이미지 · 거대한 여백 · 온냉 색 점프 · 서툰 손그림 · 시각적 은유
 
 사진에서 하나의 핵심 이미지와 꼭 필요한 관계만 남깁니다. 흰색에 가까운 거대한 여백이 공기와 거리, 감정을 담고 불투명 물감, 멈춘 붓결, 국소적인 색 어긋남이 고요하지만 생생한 시각 기억을 만듭니다.
@@ -234,7 +236,7 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤�
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>기억은 여섯 아이콘이 아니라 위계가 있는 수집입니다.</strong></div>
+<div align="center"><strong>붓질은 잠시 멈추고, 색은 조금 비껴가며, 감정은 남겨 둡니다.</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>
