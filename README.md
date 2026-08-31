@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 056
+# 🦁 XXD Panel 056｜留白记忆画
 
 ### 只留一个核心意象，用巨大留白、停顿笔触和暖冷跳色重画照片
 

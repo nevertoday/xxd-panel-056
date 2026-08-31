@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 056
+# 🦁 XXD Panel 056｜Negative-Space Memory Painting
 
 ### Keep one core image, then repaint it with vast whitespace, paused marks, and warm–cool colour shifts
 
