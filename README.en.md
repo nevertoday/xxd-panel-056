@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 056 project banner" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 056｜Negative-Space Memory Painting
