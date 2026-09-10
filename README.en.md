@@ -82,6 +82,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -98,24 +107,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-The style finds the photograph's core image, visual metaphor, or meaningful distance between things, retaining one subject and very few narrative relations. It neither illustrates every object nor fills the background; emptiness carries air, time, and emotion.
-
-```text
-lock identity and key posture → identify the core image or metaphor → remove irrelevant setting and objects → keep one subject and very few relations → build distance with vast near-white space → repaint with opaque masses, paused strokes, exposed ground, and local colour shifts → integrate only meaningful minimal text
-```
-
-## What makes the finished style recognizable
-
-- One clearly recognizable core subject, supported by only the objects or spatial relations that truly participate in the story.
-- A very pale, near-white ground that adapts to the source temperature, plus vast negative space that carries emotion.
-- Opaque gouache, acrylic, pastel, and dry-oil marks retain pauses, corrections, exposed ground, and a slightly awkward hand.
-- Cream yellow, apricot, peach, coral, and old rose meet sky blue, mint, and grey-green with relaxed warm–cool tension and occasional local colour shifts.
-- The subject may sit off-centre, suspended, low, or partially cropped; text enters the space as part of the painting rather than as mechanical poster information.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-056-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
