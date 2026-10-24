@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 056｜Negative-Space Memory Painting: keeps only the one core subject or relationship that makes a photo work and repaints it small against a vast near-white background, in loose, slightly naive opaque gouache, acrylic, oil pastel and dry oil — simple colour blocks, hand-drawn outlines, scraping, layering, showing-through and unfilled strokes, gently exaggerated proportions. A warm, lively artist's palette of cream yellow, apricot, peach, coral and old rose jumps against sky blue, pale teal, mint and grey-green, with a little brick red, deep green or black as anchors; colours may shift away from reality. A few free handwritten words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-056 or asks for naive gouache painting, minimal hand-painted memory or large-whitespace artist illustration from a photo.",
+  "short_description": "留白记忆画：只留一个核心意象，在巨大留白里用稚拙笔触和暖冷跳色重画照片",
+  "zh-CN": {
+    "name": "留白记忆画",
+    "tagline": "只留下照片里一个核心意象，在巨大留白里用稚拙笔触和暖冷跳色重新画出来。",
+    "look": "照片只剩一个核心主体，或两个对象之间那段真正动人的距离，其余环境都删掉，放在接近白色、贴合照片冷暖的大片背景里，常常偏置、裁切或落在低处。画法松弛稚拙：不透明水粉、丙烯、粉蜡和干性油画，概括色块、手绘轮廓、刮擦、覆盖和没填满的笔触，比例略带笨拙夸张，但身份和姿态是准的。颜色是温暖明快的艺术家色盘：奶油黄、杏色、粉橘、珊瑚粉、旧玫瑰，和天空蓝、浅青绿、薄荷绿碰撞，偶尔一点砖红、深绿或黑色压住画面，颜色可以跳色、错色。文字只有极少几个手写词句。",
+    "traits": ["核心意象", "近白背景", "暖冷跳色", "停顿笔触", "视觉隐喻"],
+    "good": [
+      "主体简单、有情绪的照片：一个人的背影、一只猫、桌上的一个苹果",
+      "两个对象之间有距离或关系的画面：海边的两个人、窗外的一棵树、人和狗",
+      "想做成艺术海报、书封、展览卡片或极简壁纸的照片"
+    ],
+    "poor": [
+      "需要完整保留场景和环境的照片，背景会几乎全部删掉",
+      "需要准确颜色的图：产品、服装、品牌物料，颜色可能被换掉",
+      "想要精致商业插画、光滑矢量、统一粉彩滤镜或卡通模板的效果"
+    ]
+  },
+  "en": {
+    "name": "Negative-Space Memory Painting",
+    "tagline": "Keeps one core image from your photo and repaints it in vast whitespace with naive brushwork and warm–cool colour jumps.",
+    "look": "Only one core subject remains, or the moving distance between two things, with the rest of the setting removed; it sits on a large near-white ground tuned to the photo's warmth or coolness, often off-centre, cropped or low in the frame. The painting is loose and slightly naive: opaque gouache, acrylic, oil pastel and dry oil, with simple colour blocks, hand-drawn outlines, scraping, layering and unfilled strokes, proportions a little clumsy and exaggerated but identity and pose correct. The palette is warm and lively: cream yellow, apricot, peach, coral and old rose against sky blue, pale teal and mint, with an occasional brick red, deep green or black as an anchor, and colours free to jump away from reality. Text is just a few handwritten words.",
+    "traits": ["Core image", "Near-white ground", "Warm–cool colour jumps", "Paused brushwork", "Visual metaphor"],
+    "good": [
+      "Simple, emotional photos: someone seen from behind, a cat, an apple on a table",
+      "Pictures with distance or a relationship between two things: two people by the sea, a tree outside a window, a person and a dog",
+      "Photos for an art poster, a book cover, an exhibition card or a minimal wallpaper"
+    ],
+    "poor": [
+      "Photos where the full scene and setting must stay, since almost all background is removed",
+      "Images that need accurate colour: products, clothing, brand materials, whose colours may be swapped",
+      "Requests for polished commercial illustration, smooth vector, a uniform pastel filter or cartoon templates"
+    ]
+  },
+  "ja": {
+    "name": "余白の記憶画",
+    "tagline": "写真から核となるイメージを一つだけ残し、巨大な余白の中に素朴な筆致と暖色寒色の跳ねる色で描き直します。",
+    "look": "残るのは核となる主役一つ、あるいは二つのもののあいだにある心を動かす距離だけで、ほかの環境は削ります。写真の寒暖に合わせたほぼ白の広い地に置かれ、中心を外したり、切り取ったり、低い位置に置いたりします。描き方はゆるく素朴で、不透明なガッシュ、アクリル、オイルパステル、乾いた油彩による大まかな色面、手描きの輪郭、ひっかき、塗り重ね、塗り残し。比率は少し不器用に誇張されますが、何であるかと姿勢は正確です。色は暖かく明るい画家のパレットで、クリームイエロー、杏色、ピーチ、珊瑚色、オールドローズが、空色、淡い青緑、ミントとぶつかり、ときどきレンガ色、深緑、黒が画面を締めます。色は現実から外れて跳ねても構いません。文字はごく少ない手書きの言葉だけです。",
+    "traits": ["核のイメージ", "ほぼ白の地", "暖寒の跳ねる色", "止まる筆致", "視覚の比喩"],
+    "good": [
+      "シンプルで気持ちのこもった写真：人の後ろ姿、猫、テーブルの上のりんご一つ",
+      "二つのもののあいだに距離や関係がある画面：海辺の二人、窓の外の一本の木、人と犬",
+      "アートポスター、本の表紙、展覧会のカード、ミニマルな壁紙にしたい写真"
+    ],
+    "poor": [
+      "場面や環境をまるごと残したい写真（背景はほとんど削られます）",
+      "正確な色が必要な画像：商品、服、ブランド資料（色が置き換わることがあります）",
+      "精緻な商業イラスト、なめらかなベクター、一律のパステルフィルター、キャラクターのテンプレートを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "여백의 기억 그림",
+    "tagline": "사진에서 핵심 이미지 하나만 남기고, 거대한 여백 속에 서툰 붓결과 따뜻하고 차가운 색의 도약으로 다시 그립니다.",
+    "look": "남는 것은 핵심 주인공 하나, 혹은 두 대상 사이의 마음을 움직이는 거리뿐이고 나머지 환경은 지웁니다. 사진의 따뜻함과 차가움에 맞춘 거의 흰색의 넓은 바탕 위에 놓이며, 한쪽으로 치우치거나 잘리거나 낮은 곳에 자리합니다. 그림은 느슨하고 천진하게, 불투명 과슈, 아크릴, 오일 파스텔, 마른 유화로 큼직한 색면, 손으로 그린 윤곽, 긁기, 덧칠, 칠하지 않은 자리를 남깁니다. 비율은 조금 서툴게 과장되지만 정체와 자세는 정확합니다. 색은 따뜻하고 경쾌한 화가의 팔레트로, 크림 옐로, 살구색, 피치, 산호색, 올드 로즈가 하늘색, 연한 청록, 민트와 부딪치고, 가끔 벽돌색, 짙은 초록, 검정이 화면을 잡아 줍니다. 색은 현실에서 벗어나 튀어도 됩니다. 글자는 손글씨 단어 몇 개뿐입니다.",
+    "traits": ["핵심 이미지", "거의 흰 바탕", "온냉 색의 도약", "멈춘 붓결", "시각적 은유"],
+    "good": [
+      "단순하고 감정이 담긴 사진: 누군가의 뒷모습, 고양이, 식탁 위 사과 하나",
+      "두 대상 사이에 거리나 관계가 있는 장면: 바닷가의 두 사람, 창밖의 나무 한 그루, 사람과 강아지",
+      "아트 포스터, 책 표지, 전시 카드, 미니멀 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "장면과 환경을 통째로 남겨야 하는 사진(배경은 거의 다 지워집니다)",
+      "정확한 색이 필요한 이미지: 제품, 옷, 브랜드 자료(색이 바뀔 수 있습니다)",
+      "정교한 상업 일러스트, 매끈한 벡터, 일률적인 파스텔 필터, 캐릭터 템플릿을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "لوحة الذاكرة بالفراغ",
+    "tagline": "يُبقي صورة جوهرية واحدة من صورتك ويعيد رسمها في فراغ شاسع بضربات عفوية وقفزات لونية بين الدافئ والبارد.",
+    "look": "لا يبقى إلا موضوع جوهري واحد، أو المسافة المؤثرة بين شيئين، ويُحذف باقي المحيط؛ ويوضع على أرضية واسعة قريبة من الأبيض توافق دفء الصورة أو برودتها، كثيراً ما يكون بعيداً عن المركز أو مقصوصاً أو منخفضاً في الإطار. الرسم مرتخٍ وفيه شيء من السذاجة: غواش معتم وأكريليك وباستيل زيتي وزيت جاف، بكتل لونية مبسطة وحدود مرسومة باليد وكشط وتراكب وضربات لم تملأ مكانها، ونِسب فيها مبالغة خرقاء قليلاً مع بقاء الهوية والوضعية صحيحتين. الألوان لوحة فنان دافئة حيوية: أصفر كريمي ومشمشي وخوخي ومرجاني ووردي عتيق في مواجهة أزرق سماوي وأخضر مزرق فاتح ونعناعي، مع أحمر طوبي أو أخضر داكن أو أسود أحياناً لتثبيت التكوين، ويمكن للألوان أن تقفز بعيداً عن الواقع. النص بضع كلمات بخط اليد فقط.",
+    "traits": ["صورة جوهرية", "أرضية شبه بيضاء", "قفزات لونية دافئة وباردة", "ضربات متوقفة", "استعارة بصرية"],
+    "good": [
+      "صور بسيطة فيها شعور: شخص من الخلف، قطة، تفاحة على طاولة",
+      "صور فيها مسافة أو علاقة بين شيئين: شخصان على البحر، شجرة خارج نافذة، شخص وكلب",
+      "صور لملصق فني أو غلاف كتاب أو بطاقة معرض أو خلفية بسيطة"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها المشهد والمحيط كاملين، لأن الخلفية تُحذف كلها تقريباً",
+      "صور تحتاج إلى ألوان دقيقة: المنتجات، الملابس، مواد العلامات التجارية، فقد تُستبدل ألوانها",
+      "طلب رسم تجاري مصقول أو رسوم متجهية ملساء أو مرشح باستيل موحد أو قوالب كرتونية"
+    ]
+  }
+}

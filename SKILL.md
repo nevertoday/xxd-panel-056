@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-056
-description: "Create XXD Panel 056 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-056 or requests the exact Panel 056 style."
+description: "XXD Panel 056｜Negative-Space Memory Painting: keeps only the one core subject or relationship that makes a photo work and repaints it small against a vast near-white background, in loose, slightly naive opaque gouache, acrylic, oil pastel and dry oil — simple colour blocks, hand-drawn outlines, scraping, layering, showing-through and unfilled strokes, gently exaggerated proportions. A warm, lively artist's palette of cream yellow, apricot, peach, coral and old rose jumps against sky blue, pale teal, mint and grey-green, with a little brick red, deep green or black as anchors; colours may shift away from reality. A few free handwritten words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-056 or asks for naive gouache painting, minimal hand-painted memory or large-whitespace artist illustration from a photo."
 ---
 
 # XXD Panel 056
